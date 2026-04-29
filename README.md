@@ -6,7 +6,7 @@ This project presents an IPL Analytics Dashboard developed in Power BI to analyz
 The dashboard is designed to provide a complete analytical view of IPL history by combining match statistics, player achievements, and strategic insights into one data-driven solution.
 
 ---
-
+![alt image](https://github.com/chiku1279/IPL_2008-2022-analysis-/blob/70eb65d7a067469f6efdf539a577ba5f9394e308/Dashboard%20Img.png)
 ## 🎯 Objective
 The primary objective of this project is to:
 - Analyze IPL performance across multiple seasons  
